@@ -1,0 +1,1 @@
+for(let o=0;o<30;o++)console.log(o);

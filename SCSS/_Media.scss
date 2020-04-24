@@ -1,0 +1,39 @@
+@media screen and (max-width: 1200px) {
+    .slogan {
+        font-size: 3vw;
+    }
+
+    .products {
+        font-size: 3vw;
+    }
+
+    .scaleBgi__text {
+        font-size: 3vw;
+    }
+
+    .accessories__text {
+        font-size: 3vw;
+    }
+
+    .slider {
+        width: 100%;
+        height: auto;
+
+        &__padding {
+            width: 100%;
+            padding-bottom: 51.5%;
+        }
+    }
+}
+
+@media screen and (max-width: 1650px) {
+    main {
+        background-image: none;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .navigationWrap_disabled {
+        display: none;
+    }
+}
